@@ -3,8 +3,6 @@
 
 [URL to static website](https://serene-curie-1c34d4.netlify.com/)
 
-[Trello][trello]
-
 # Minimum Viable Product
 
 My Notes Application is a static clone of Evernote, built using Javascript. By the end of development this app will, at a minimum, satisfy the following criteria:
