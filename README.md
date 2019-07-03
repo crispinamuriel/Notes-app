@@ -1,16 +1,16 @@
 # Notes app
 * Created by Crispina Muriel
 
-[URL to static website](https://serene-curie-1c34d4.netlify.com/)
+[URL to static website](https://eloquent-davinci-aa335c.netlify.com)
 
 # Minimum Viable Product
 
-My Notes Application is a static clone of Evernote, built using Javascript. By the end of development this app will, at a minimum, satisfy the following criteria:
+My Notes Application is a static Hangman Game App, built using Javascript/HTML/CSS. By the end of development this app will, at a minimum, satisfy the following criteria:
 
-* New note
-* Edit note
-* Sort notes
-* Search and filter notes
+* New game
+* Interactive Play
+* Dynamic Play
+* Win/Lose based on guesses
 * Hosting on Netflify.com
 
 # Design Docs
@@ -19,17 +19,17 @@ My Notes Application is a static clone of Evernote, built using Javascript. By t
 
 # Implementation Timeline
 
-## Phase 1: Creating New Note 
-* **Objective:** Users can create a new note.
+## Phase 1: Creating New Hangman Class
+* **Objective:** Users can create a new game of hangman.
 
-## Phase 2: Edit Note
-* **Objective:** Notes can be edited and a timestamp will be created for each edit.
+## Phase 2: Interactive Play
+* **Objective:** Users can press keys to guess letters in the word.
 
-## Phase 3: Sort Notes 
-* **Objective:** Notes can be sorted by 'Last edited', 'Recently created', and 'Alphabetically'. 
+## Phase 3: Dynamic Play 
+* **Objective:** Games are started with randomly selected words from a word API. 
 
-## Phase 4: Search and filter notes
-* **Objective:** Notes can be filtered and displayed by a User's search query.
+## Phase 4: Win / Lose based on turns
+* **Objective:** Players get limited guesses to win or lose a round.
 
 ## Phase 5: Deployment
 * **Objective:** Static hosting on Netlify.com
